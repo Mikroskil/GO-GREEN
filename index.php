@@ -8,9 +8,10 @@
 
 <body>
 
+   <!-- Begin Wrapper -->
    <div id="wrapper">
    
-        
+         <!-- Begin Header -->
          <div id="header">
          
 		 <center><h1>BUKU BATAK</h1>
@@ -29,10 +30,14 @@
 		       		 
 			  </center>	 
 		 </div>
-		
+		 <!-- End Header -->
+		 
+         <!-- Begin Faux Columns -->
 		 <div id="faux">
 		
-		       
+		       <!-- Begin Left Column -->
+		     
+		       <!-- End Right Column -->
 			   
 			  
 			   <h2>WELCOME BATAK TOBA...</h2>
@@ -46,15 +51,17 @@
 					
 		       
          </div>	   
-        
+         <!-- End Faux Columns --> 
+
+         <!-- Begin Footer -->
          <div id="footer">
 		       
               <center>Create By: laspando@gmail.com and te@m GO Green</center>		
 
          </div>
-		
+		 <!-- End Footer -->
 		 
    </div>
-  
+   <!-- End Wrapper -->
 </body>
 </html>
